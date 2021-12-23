@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	
+	"settings": {
+		"workbench.colorTheme": "Dracula",
+		"editor.semanticHighlighting.enabled": false,
+		"explorer.compactFolders": false,
+		"breadcrumbs.enabled": true,
+		"editor.fontFamily": "Fira Code",
+		"editor.fontLigatures": true,
+		"editor.fontSize": 19,
+		"html.suggest.html5": true,
+		"emmet.includeLanguages": {"javascript": "html"}, //habilita o html dentro do arquivo .js
+	}
+}
